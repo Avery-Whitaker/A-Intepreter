@@ -1,4 +1,3 @@
 A-Intepreter
 ============
-
-WIP
+Sorry! Never got around to open sourcing this project.
